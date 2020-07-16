@@ -12,4 +12,4 @@ Após execução, aparecerá todos os pagamentos que foram registrados. Também,
 
 ## Suporte
 
-Para quaisquer dúvidas ou detalhes, consulte a equipe de desenvolvimento.
+Para quaisquer dúvidas ou detalhes, consulte a equipe de desenvolvimento ou diretamente com Rodrigo Oliveira.
