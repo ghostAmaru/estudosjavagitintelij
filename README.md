@@ -9,7 +9,7 @@ necessarias e executar o metodo main da classe  'Principal'.
 Entao, vai aparecer no console o arquivo, basta apenas digitar o codigo do arquivo, isto eh, o numero que vai 
 aparecer do lado.
 
-## Resultados apresentQados
+## Resultados apresentados
 
 Apos execucao, aparecera todos os pagamentos que foram registrados. Tambem, automaticamente, sera criado um 
 diretorio chamado **backup** ao qual contera os arquivos que foram lidos a cada execucao.
