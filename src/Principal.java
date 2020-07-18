@@ -19,7 +19,7 @@ public class Principal {
 //        System.out.println("Imprimindo informações dos Funcionários");
 //
 //        Funcionario jose = new Funcionario("José",1, LocalDate.of(1987,03,29));
-//        Funcionario maria = new Funcionario("Maria",2, LocalDate.of(1985,07,17));
+//        Funcionario maria = ne2w Funcionario("Maria",2, LocalDate.of(1985,07,17));
 //
 //        System.out.println("Está sendo impressa as informações de: " + maria);
 //        System.out.println("Está sendo impressa as informações de: " + jose);
