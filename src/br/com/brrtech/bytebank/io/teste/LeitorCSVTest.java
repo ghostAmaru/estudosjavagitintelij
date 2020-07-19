@@ -32,4 +32,11 @@ public class LeitorCSVTest {
         List<Pagamento> pagamentos = leitor.ler(3);
         assertEquals(5,pagamentos.size());
     }
+
+    @Test
+    public void pagamentosDeJulho() throws IOException {
+        LeitorCSV leitor = new LeitorCSV();
+        List<Pagamento> pagamentos = leitor.ler(4);
+        assertEquals(5,pagamentos.size());
+    }
 }
